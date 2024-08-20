@@ -1,5 +1,5 @@
 # World-GDP-Analysis-and-Prediction
-This repository contains a data analysis and predictive system for analyzing and predicting Gross Domestic Product (GDP) per capita for countries around the world. It provides a dashboard for exploring GDP-related data and a predictive system for estimating a country's GDP based on certain features.
+This repository contains a data analysis and predictive system for analyzing and predicting Gross Domestic Product (GDP) per capita for countries around the world.
 
 # Dashboard and Predictive System:
 The main feature of this project is the Streamlit dashboard and predictive system. Users can upload a CSV file, input features, and receive GDP predictions based on the provided data. The dashboard also offers data analysis and visualization.
